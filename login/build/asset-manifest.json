@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Deepnetsofttest/static/css/main.9bda8402.css",
+    "main.js": "/Deepnetsofttest/static/js/main.34645155.js",
+    "static/js/787.0bca8be2.chunk.js": "/Deepnetsofttest/static/js/787.0bca8be2.chunk.js",
+    "index.html": "/Deepnetsofttest/index.html",
+    "main.9bda8402.css.map": "/Deepnetsofttest/static/css/main.9bda8402.css.map",
+    "main.34645155.js.map": "/Deepnetsofttest/static/js/main.34645155.js.map",
+    "787.0bca8be2.chunk.js.map": "/Deepnetsofttest/static/js/787.0bca8be2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bda8402.css",
+    "static/js/main.34645155.js"
+  ]
+}
